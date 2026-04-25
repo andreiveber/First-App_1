@@ -1,5 +1,8 @@
 # First App - React приложение
 
+<img width="1920" height="1080" alt="2026-04-25_20-14-49" src="https://github.com/user-attachments/assets/ce6806aa-aae1-4665-a1dd-824363c62c32" />
+
+
 React-приложение, созданное с помощью Vite. Демонстрирует компонентный подход с использованием Bootstrap для стилизации.
 
 ## Технологии
